@@ -1,6 +1,8 @@
 package com.example.lab08;
 
 public class City {
+
+    // Variable names 
     private String city;
     private String province;
 
